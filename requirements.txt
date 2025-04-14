@@ -1,0 +1,9 @@
+ipykernel
+dotenv
+langgraph
+langchain-groq
+langchain-google-genai
+tavily-python
+langchain-core
+pydantic
+chainlit
